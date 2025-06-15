@@ -1,0 +1,11 @@
+.vscode
+build
+
+# Exclude log folder content except specific file
+log/*
+!log/log_20250615_101736.log
+
+# Exclude data folder content except specific subfolder
+data/*
+!data/20250615_101736_data/
+
