@@ -1,0 +1,2244 @@
+[INFO] - [Fdir] Adding sensor: imu3
+[INFO] - [Fdir] Adding sensor: imu2
+[INFO] - [Fdir] Adding sensor: imu1
+[INFO] - [Fdir] Adding sensor: gnss2
+[INFO] - [Fdir] Adding sensor: gnss1
+[INFO] - [Simulator] Starting simulation
+[INFO] - [Simulator] Starting IMU sensors
+[INFO] - [ImuSensor] Starting IMU sensor: imu3
+[INFO] - [ImuSensor] Starting IMU sensor: imu2
+[INFO] - [ImuSensor] Starting IMU sensor: imu1
+[INFO] - [Simulator] Starting GNSS sensors
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss2
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss1
+[INFO] - [Simulator] Starting Processing Unit
+[INFO] - [ProcessingUnit] Start
+[INFO] - [Simulator] Starting FDIR
+[INFO] - [Fdir] Start
+[ERROR] - [Fdir] Processing unit has invalid data.
+[INFO] - [Fdir] Processing unit has valid data.
+[INFO] - [Interface] Simulation running... Check CSV files to see the data
+[INFO] - [Simulator] Stopping simulation
+[INFO] - [Simulator] Stopping IMU sensor: imu3
+[INFO] - [ImuSensor] Stopping IMU sensor: imu3
+[INFO] - [Simulator] Stopping IMU sensor: imu2
+[INFO] - [ImuSensor] Stopping IMU sensor: imu2
+[INFO] - [Simulator] Stopping IMU sensor: imu1
+[INFO] - [ImuSensor] Stopping IMU sensor: imu1
+[INFO] - [Simulator] Stopping GNSS sensor: gnss2
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss2
+[INFO] - [Simulator] Stopping GNSS sensor: gnss1
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss1
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Processing unit has invalid data.
+[INFO] - [ProcessingUnit] Stop
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[INFO] - [Fdir] Stop
+[INFO] - [Interface] Simulation stopped.
+[INFO] - [Simulator] Starting simulation
+[INFO] - [Simulator] Starting IMU sensors
+[INFO] - [ImuSensor] Starting IMU sensor: imu3
+[INFO] - [ImuSensor] Starting IMU sensor: imu2
+[INFO] - [ImuSensor] Starting IMU sensor: imu1
+[INFO] - [Simulator] Starting GNSS sensors
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss2
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss1
+[INFO] - [Simulator] Starting Processing Unit
+[INFO] - [ProcessingUnit] Start
+[INFO] - [Simulator] Starting FDIR
+[INFO] - [Fdir] Start
+[INFO] - [Fdir] Processing unit has valid data.
+[INFO] - [Interface] Simulating for 10 seconds... Check CSV files to see the data
+[INFO] - [Simulator] Stopping simulation
+[INFO] - [Simulator] Stopping IMU sensor: imu3
+[INFO] - [ImuSensor] Stopping IMU sensor: imu3
+[INFO] - [Simulator] Stopping IMU sensor: imu2
+[INFO] - [ImuSensor] Stopping IMU sensor: imu2
+[INFO] - [Simulator] Stopping IMU sensor: imu1
+[INFO] - [ImuSensor] Stopping IMU sensor: imu1
+[INFO] - [Simulator] Stopping GNSS sensor: gnss2
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss2
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[INFO] - [Simulator] Stopping GNSS sensor: gnss1
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss1
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Processing unit has invalid data.
+[INFO] - [ProcessingUnit] Stop
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[INFO] - [Fdir] Stop
+[INFO] - [Simulator] Starting simulation
+[INFO] - [Simulator] Injecting IMU faults: Enabled
+[INFO] - [ImuSensor] Fault injection enabled for IMU sensor: imu3
+[INFO] - [ImuSensor] Stopping IMU sensor: imu3
+[INFO] - [ImuSensor] Fault injection enabled for IMU sensor: imu2
+[INFO] - [Simulator] Starting IMU sensors
+[INFO] - [ImuSensor] Starting IMU sensor: imu3
+[INFO] - [ImuSensor] Stopping IMU sensor: imu2
+[INFO] - [ImuSensor] Fault injection enabled for IMU sensor: imu1
+[INFO] - [ImuSensor] Stopping IMU sensor: imu1
+[INFO] - [ImuSensor] Starting IMU sensor: imu2
+[INFO] - [ImuSensor] Starting IMU sensor: imu1
+[INFO] - [Simulator] Starting GNSS sensors
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss2
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss1
+[INFO] - [Simulator] Starting Processing Unit
+[INFO] - [ProcessingUnit] Start
+[INFO] - [Simulator] Starting FDIR
+[INFO] - [Fdir] Start
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[INFO] - [Simulator] Injecting IMU faults: Disabled
+[INFO] - [ImuSensor] Fault injection disabled for IMU sensor: imu3
+[INFO] - [ImuSensor] Fault injection disabled for IMU sensor: imu2
+[INFO] - [ImuSensor] Fault injection disabled for IMU sensor: imu1
+[INFO] - [Simulator] Stopping simulation
+[INFO] - [Simulator] Stopping IMU sensor: imu3
+[INFO] - [ImuSensor] Stopping IMU sensor: imu3
+[INFO] - [Simulator] Stopping IMU sensor: imu2
+[INFO] - [ImuSensor] Stopping IMU sensor: imu2
+[INFO] - [Simulator] Stopping IMU sensor: imu1
+[INFO] - [ImuSensor] Stopping IMU sensor: imu1
+[INFO] - [Simulator] Stopping GNSS sensor: gnss2
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss2
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[INFO] - [Simulator] Stopping GNSS sensor: gnss1
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss1
+[INFO] - [ProcessingUnit] Stop
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[INFO] - [Fdir] Stop
+[INFO] - [Simulator] Starting simulation
+[INFO] - [Simulator] Injecting GNSS faults: Enabled
+[INFO] - [Simulator] Starting IMU sensors
+[INFO] - [ImuSensor] Starting IMU sensor: imu3
+[INFO] - [GnssSensor] Fault injection enabled for GNSS sensor: gnss2
+[INFO] - [GnssSensor] Fault injection enabled for GNSS sensor: gnss1
+[INFO] - [ImuSensor] Starting IMU sensor: imu2
+[INFO] - [ImuSensor] Starting IMU sensor: imu1
+[INFO] - [Simulator] Starting GNSS sensors
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss2
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss1
+[INFO] - [Simulator] Starting Processing Unit
+[INFO] - [ProcessingUnit] Start
+[INFO] - [Simulator] Starting FDIR
+[INFO] - [Fdir] Start
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[INFO] - [Simulator] Injecting GNSS faults: Disabled
+[INFO] - [GnssSensor] Fault injection disabled for GNSS sensor: gnss2
+[INFO] - [GnssSensor] Fault injection disabled for GNSS sensor: gnss1
+[INFO] - [Simulator] Stopping simulation
+[INFO] - [Simulator] Stopping IMU sensor: imu3
+[INFO] - [ImuSensor] Stopping IMU sensor: imu3
+[INFO] - [Simulator] Stopping IMU sensor: imu2
+[INFO] - [ImuSensor] Stopping IMU sensor: imu2
+[INFO] - [Simulator] Stopping IMU sensor: imu1
+[INFO] - [ImuSensor] Stopping IMU sensor: imu1
+[INFO] - [Fdir] Processing unit has valid data.
+[INFO] - [Simulator] Stopping GNSS sensor: gnss2
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss2
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[INFO] - [Simulator] Stopping GNSS sensor: gnss1
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss1
+[INFO] - [ProcessingUnit] Stop
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[INFO] - [Fdir] Stop
+[INFO] - [Simulator] Starting simulation
+[INFO] - [Simulator] Starting IMU sensors
+[INFO] - [ImuSensor] Starting IMU sensor: imu3
+[INFO] - [ImuSensor] Starting IMU sensor: imu2
+[INFO] - [ImuSensor] Starting IMU sensor: imu1
+[INFO] - [Simulator] Starting GNSS sensors
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss2
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss1
+[INFO] - [Simulator] Starting Processing Unit
+[INFO] - [ProcessingUnit] Start
+[INFO] - [Simulator] Starting FDIR
+[INFO] - [Fdir] Start
+[INFO] - [Interface] Simulation running... Check CSV files to see the data
+[INFO] - [Simulator] Stopping simulation
+[INFO] - [Simulator] Stopping IMU sensor: imu3
+[INFO] - [ImuSensor] Stopping IMU sensor: imu3
+[INFO] - [Simulator] Stopping IMU sensor: imu2
+[INFO] - [ImuSensor] Stopping IMU sensor: imu2
+[INFO] - [Simulator] Stopping IMU sensor: imu1
+[INFO] - [ImuSensor] Stopping IMU sensor: imu1
+[INFO] - [Simulator] Stopping GNSS sensor: gnss2
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss2
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[INFO] - [Simulator] Stopping GNSS sensor: gnss1
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss1
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Processing unit has invalid data.
+[INFO] - [ProcessingUnit] Stop
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[INFO] - [Fdir] Stop
+[INFO] - [Interface] Simulation stopped.
+[INFO] - [Simulator] Starting simulation
+[INFO] - [Simulator] Starting IMU sensors
+[INFO] - [ImuSensor] Starting IMU sensor: imu3
+[INFO] - [ImuSensor] Starting IMU sensor: imu2
+[INFO] - [ImuSensor] Starting IMU sensor: imu1
+[INFO] - [Simulator] Starting GNSS sensors
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss2
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss1
+[INFO] - [Simulator] Starting Processing Unit
+[INFO] - [ProcessingUnit] Start
+[INFO] - [Simulator] Starting FDIR
+[INFO] - [Fdir] Start
+[INFO] - [Fdir] Processing unit has valid data.
+[INFO] - [Interface] Simulating for 10 seconds... Check CSV files to see the data
+[INFO] - [Simulator] Stopping simulation
+[INFO] - [Simulator] Stopping IMU sensor: imu3
+[INFO] - [ImuSensor] Stopping IMU sensor: imu3
+[INFO] - [Simulator] Stopping IMU sensor: imu2
+[INFO] - [ImuSensor] Stopping IMU sensor: imu2
+[INFO] - [Simulator] Stopping IMU sensor: imu1
+[INFO] - [ImuSensor] Stopping IMU sensor: imu1
+[INFO] - [Simulator] Stopping GNSS sensor: gnss2
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss2
+[INFO] - [Simulator] Stopping GNSS sensor: gnss1
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss1
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[INFO] - [ProcessingUnit] Stop
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[INFO] - [Fdir] Stop
+[INFO] - [Simulator] Starting simulation
+[INFO] - [Simulator] Injecting IMU faults: Enabled
+[INFO] - [ImuSensor] Fault injection enabled for IMU sensor: imu3
+[INFO] - [ImuSensor] Stopping IMU sensor: imu3
+[INFO] - [ImuSensor] Fault injection enabled for IMU sensor: imu2
+[INFO] - [ImuSensor] Stopping IMU sensor: imu2
+[INFO] - [ImuSensor] Fault injection enabled for IMU sensor: imu1
+[INFO] - [ImuSensor] Stopping IMU sensor: imu1
+[INFO] - [Simulator] Starting IMU sensors
+[INFO] - [ImuSensor] Starting IMU sensor: imu3
+[INFO] - [ImuSensor] Starting IMU sensor: imu2
+[INFO] - [ImuSensor] Starting IMU sensor: imu1
+[INFO] - [Simulator] Starting GNSS sensors
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss2
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss1
+[INFO] - [Simulator] Starting Processing Unit
+[INFO] - [ProcessingUnit] Start
+[INFO] - [Simulator] Starting FDIR
+[INFO] - [Fdir] Start
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Processing unit has invalid data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[ERROR] - [Fdir] Sensor imu1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor imu3 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[INFO] - [Simulator] Injecting IMU faults: Disabled
+[INFO] - [ImuSensor] Fault injection disabled for IMU sensor: imu3
+[INFO] - [ImuSensor] Fault injection disabled for IMU sensor: imu2
+[INFO] - [ImuSensor] Fault injection disabled for IMU sensor: imu1
+[INFO] - [Simulator] Stopping simulation
+[INFO] - [Simulator] Stopping IMU sensor: imu3
+[INFO] - [ImuSensor] Stopping IMU sensor: imu3
+[INFO] - [Simulator] Stopping IMU sensor: imu2
+[INFO] - [ImuSensor] Stopping IMU sensor: imu2
+[INFO] - [Simulator] Stopping IMU sensor: imu1
+[INFO] - [ImuSensor] Stopping IMU sensor: imu1
+[INFO] - [Fdir] Processing unit has valid data.
+[INFO] - [Simulator] Stopping GNSS sensor: gnss2
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss2
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[INFO] - [Simulator] Stopping GNSS sensor: gnss1
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss1
+[ERROR] - [Fdir] Processing unit has invalid data.
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[INFO] - [ProcessingUnit] Stop
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[INFO] - [Fdir] Stop
+[INFO] - [Simulator] Starting simulation
+[INFO] - [Simulator] Injecting GNSS faults: Enabled
+[INFO] - [GnssSensor] Fault injection enabled for GNSS sensor: gnss2
+[INFO] - [GnssSensor] Fault injection enabled for GNSS sensor: gnss1
+[INFO] - [Simulator] Starting IMU sensors
+[INFO] - [ImuSensor] Starting IMU sensor: imu3
+[INFO] - [ImuSensor] Starting IMU sensor: imu2
+[INFO] - [ImuSensor] Starting IMU sensor: imu1
+[INFO] - [Simulator] Starting GNSS sensors
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss2
+[INFO] - [GnssSensor] Starting GNSS sensor: gnss1
+[INFO] - [Simulator] Starting Processing Unit
+[INFO] - [ProcessingUnit] Start
+[INFO] - [Simulator] Starting FDIR
+[INFO] - [Fdir] Start
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[ERROR] - [Fdir] Sensor gnss1 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [Fdir] Sensor gnss2 did not provide any output for three consecutive nominal measurement intervals
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[INFO] - [Simulator] Injecting GNSS faults: Disabled
+[INFO] - [GnssSensor] Fault injection disabled for GNSS sensor: gnss2
+[INFO] - [GnssSensor] Fault injection disabled for GNSS sensor: gnss1
+[INFO] - [Simulator] Stopping simulation
+[INFO] - [Simulator] Stopping IMU sensor: imu3
+[INFO] - [ImuSensor] Stopping IMU sensor: imu3
+[INFO] - [Simulator] Stopping IMU sensor: imu2
+[INFO] - [ImuSensor] Stopping IMU sensor: imu2
+[INFO] - [Simulator] Stopping IMU sensor: imu1
+[INFO] - [ImuSensor] Stopping IMU sensor: imu1
+[INFO] - [Fdir] Processing unit has valid data.
+[INFO] - [Simulator] Stopping GNSS sensor: gnss2
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss2
+[ERROR] - [ProcessingUnit] No valid IMU data.
+[INFO] - [Simulator] Stopping GNSS sensor: gnss1
+[INFO] - [GnssSensor] Stopping GNSS sensor: gnss1
+[INFO] - [ProcessingUnit] Stop
+[ERROR] - [ProcessingUnit] No valid GNSS data.
+[INFO] - [Fdir] Stop
+[INFO] - [Interface] Exiting the simulator. Check the log file for details.
+[INFO] - [Interface] Bye!

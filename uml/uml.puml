@@ -1,0 +1,189 @@
+@startuml structure
+
+' Abstract Sensor class
+abstract class Sensor {
+  #name_: string
+  #frequency_: double
+  #buffer_size_: int
+  #noise_: double
+  #running_: atomic<bool>
+  #fault_injected_: atomic<bool>
+  #thread_: thread
+  #buffer_mutex_: mutex
+  #last_update_: Timestamp
+  #last_update_mutex_: mutex
+
+  +Sensor(name: string, frequency: double, buffer_size: int, noise: double)
+  +start()
+  +stop()
+  +getName(): string
+  +getFrequency(): double
+  +getLastUpdate(): Timestamp
+  +isRunning(): bool
+  +setFrequency(frequency: double)
+  #run()
+}
+
+' Sensor implementations
+class ImuSensor {
+  -buffer_: deque<ImuData>
+  +ImuSensor(name: string, frequency: double, buffer_size: int, noise: double)
+  +start()
+  +stop()
+  +injectFault(enable: bool)
+  +getBuffer(): deque<ImuData>
+  -run()
+  -generateSample(): ImuData
+}
+
+class GnssSensor {
+  -buffer_: deque<GnssData>
+  +GnssSensor(name: string, frequency: double, buffer_size: int, noise: double)
+  +start()
+  +stop()
+  +injectFault(enable: bool)
+  +getBuffer(): deque<GnssData>
+  -run()
+  -generateSample(): GnssData
+}
+
+' Data structures
+class ImuData {
+  +timestamp: Timestamp
+  +att_rate_x: double
+  +att_rate_y: double
+  +att_rate_z: double
+}
+
+class GnssData {
+  +timestamp: Timestamp
+  +pos_x: double
+  +pos_y: double
+  +pos_z: double
+}
+
+class ProcessingOutput {
+  +timestamp: Timestamp
+  +attitude_rate_x: double
+  +attitude_rate_y: double
+  +attitude_rate_z: double
+  +last_pos_x: double
+  +last_pos_y: double
+  +last_pos_z: double
+  +valid_imu: bool
+  +valid_gnss: bool
+}
+
+' Main components
+class ProcessingUnit {
+  -imu_sensors_: vector<ImuSensor>
+  -gnss_sensors_: vector<GnssSensor>
+  -frequency_: double
+  -thread_: thread
+  -running_: atomic<bool>
+  -output_mutex_: mutex
+  -last_output_: ProcessingOutput
+  -data_directory_: string
+  -imu_file_: ofstream
+  -gnss_file_: ofstream
+
+  +ProcessingUnit(imu_sensors: vector<ImuSensor>, gnss_sensors: vector<GnssSensor>, frequency: double)
+  +start()
+  +stop()
+  +getSensorData(): ProcessingOutput
+  +getLastOutput(): ProcessingOutput
+  -run()
+  -getAttitudeRate(imu_data: vector<array<optional<double>,3>>, imu_timestamps: vector<optional<Timestamp>>): array<optional<double>,3>
+}
+
+class Fdir {
+  -frequency_: double
+  -processing_unit_: ProcessingUnit
+  -sensors_: map<string, tuple<Sensor, int, double>>
+  -fdir_mutex_: mutex
+  -running_: atomic<bool>
+  -thread_: thread
+  -valid_data_: bool
+
+  +Fdir(processing_unit: ProcessingUnit, frequency: double)
+  +start()
+  +stop()
+  +addSensor(sensor: Sensor)
+  +removeSensor(name: string)
+  -run()
+  -checkSensors()
+  -checkProcessingUnit()
+}
+
+class Simulator {
+  -imu_sensors_: vector<ImuSensor>
+  -gnss_sensors_: vector<GnssSensor>
+  -gnss_freq_: unordered_map<string, double>
+  -processing_unit_: ProcessingUnit
+  -fdir_: Fdir
+  -simulation_thread_: thread
+  -running_: atomic<bool>
+  -simulation_mutex_: mutex
+
+  +Simulator(imu_sensors: vector<ImuSensor>, gnss_sensors: vector<GnssSensor>, processing_unit: ProcessingUnit, fdir: Fdir)
+  +start()
+  +stop()
+  +injectImuFaults(enable: bool)
+  +injectGnssFaults(enable: bool)
+  -run()
+}
+
+' Logger class
+class Logger {
+  +init()
+  +log(level: Level, message: string)
+  --
+  -logfile_: ofstream
+  -filename_: string
+  -log_mutex_: mutex
+  --
+  enum Level (
+    Debug
+    Info
+    Warning
+    Error 
+  )
+}
+
+' --- Relationships
+
+' --- Inheritance
+' Sensor is the base class for ImuSensor and GnssSensor
+Sensor <|-- ImuSensor 
+Sensor <|-- GnssSensor
+
+' --- Dependency
+' ImuSensor and GnssSensor depend on ImuData and GnssData structures
+ImuSensor ..> ImuData
+GnssSensor ..> GnssData
+
+' ProcessingUnit depends on ProcessingOutput structure
+ProcessingUnit ..> ProcessingOutput
+
+' The simulation dependens on the Logger
+Simulator ..> Logger 
+
+' --- Composition
+' Simulator manages the lifecycle of ProcessingUnit and Fdir
+Simulator *-- ProcessingUnit
+Simulator *-- Fdir
+
+' Simulator has multiple ImuSensors and GnssSensors
+Simulator *-- ImuSensor
+Simulator *-- GnssSensor
+
+' --- Aggregation 
+' ProcessingUnit has multiple ImuSensors and GnssSensors
+ProcessingUnit o-- ImuSensor
+ProcessingUnit o-- GnssSensor
+
+' Fdir has a ProcessingUnit and multiple Sensors
+Fdir o-- ProcessingUnit
+Fdir o-- Sensor
+
+@enduml
